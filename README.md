@@ -21,7 +21,7 @@
 - React Konva
 - React Router Dom
 - React Icons
-- Styled-Componets
+- Styled-Components
 - Redux
 - Axios
 
@@ -112,6 +112,9 @@
 [강원일보](https://www.kwnews.co.kr/page/view/2023070318365796258) [베리타스](http://www.veritas-a.com/news/articleView.html?idxno=463667)
 [한국대학신문](https://news.unn.net/news/articleView.html?idxno=549264) [쿠키뉴스](https://www.kukinews.com/newsView/kuk202307040003)
 </div>
+
+### 공동해커톤 참가후기 / 개발후기
+[2023 SW중심대학 공동해커톤 "개발자" 후기(Feat. 🏆우수상🏆)](https://velog.io/@osohyun0224/2023-SW%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99-%EA%B3%B5%EB%8F%99%ED%95%B4%EC%BB%A4%ED%86%A4-%EC%B0%B8%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9B%84%EA%B8%B0Feat.-%EC%9A%B0%EC%88%98%EC%83%81)
 
 ### 2023 SW중심대학 공동해커톤이란? 
 <div align="center">
