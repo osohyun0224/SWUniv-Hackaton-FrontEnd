@@ -37,7 +37,7 @@
 ![React.js](https://img.shields.io/badge/React.js-white?style=for-the-badge&logo=React&logoColor=black&color=61DAFB)
 ![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=white&color=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white")
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Groom IDE](https://img.shields.io/badge/Groom%20IDE-%2303C75A.svg?style=for-the-badge&logo=Icloud&logoColor=000000&color=E8E8E8)
 
 ## 🫴🏻 Project Planning Intention
@@ -99,8 +99,18 @@
 ### 2023 SW중심대학 공동해커톤 우수상(SW중심대학협의회장상) 최종 3위 수상 🏆
 
 <div align="center">
-<img alt="image" width="340"  src="https://github.com/osohyun0224/HallymFestival2023-Frontend/assets/53892427/4bdb5772-5780-4bba-8cdf-75f2c59b57b8"/>
-<img alt="image" width="300"  src="https://github.com/osohyun0224/HallymFestival2023-Frontend/assets/53892427/9fb49268-6431-4646-9782-a95625a04751"/>
+<img alt="image" width="340"  src="https://github.com/osohyun0224/HallymFestival2023-Frontend/assets/53892427/9fb49268-6431-4646-9782-a95625a04751"/>
+</div>
+
+### 한림대학교 수상 🏆
+
+<div align="center">
+<img alt="image" width="340"  src="https://github.com/osohyun0224/SWUniv_Hackaton_FrontEnd/assets/53892427/0b364738-8989-4ee0-8768-c32f4eabd253"/>
+<img alt="image" width="345"  src="https://github.com/osohyun0224/SWUniv_Hackaton_FrontEnd/assets/53892427/82b6bba1-09d6-4175-9a2f-65cdb46564fd"/>
+
+[한림대학교 공식 홈 한림투데이](https://www.hallym.ac.kr/hallym_univ/sub02/cP7/sCP1.html?action=read&nttId=16323374&pageIndex=2)
+[강원일보](https://www.kwnews.co.kr/page/view/2023070318365796258) [베리타스](http://www.veritas-a.com/news/articleView.html?idxno=463667)
+[한국대학신문](https://news.unn.net/news/articleView.html?idxno=549264) [쿠키뉴스](https://www.kukinews.com/newsView/kuk202307040003)
 </div>
 
 ### 2023 SW중심대학 공동해커톤이란? 
